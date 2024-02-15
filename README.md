@@ -1,2 +1,2 @@
-# shopinitem2
-work on css layout proprties
+# Shoping-item
+Adding a simple item chart
